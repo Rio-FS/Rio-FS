@@ -44,7 +44,6 @@ Motivated undergraduate student aiming to apply and enhance theoretical and prac
 
 ## 💡 Interests
 
-- VLSI Design
 - AI and Machine Learning
 - Automation and IoT
 - Embedded Systems
