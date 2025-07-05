@@ -2,7 +2,7 @@
 
 **Electronics and Communication Engineering Undergrad**  
 Coimbatore, TN, India  
-📧 mayanknsahu@gmail.com | 📞 +91 90042 57266
+📧 mayanknsahu@gmail.com 
 
 ---
 
