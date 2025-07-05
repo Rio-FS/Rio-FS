@@ -30,7 +30,7 @@ Motivated undergraduate student aiming to apply and enhance theoretical and prac
 
 **B.Tech in Electronics and Communication Engineering**  
 *Amrita Vishwa Vidyapeetham, Coimbatore*  
-📆 Oct 2022 – Present | CGPA: 7.83  
+📆 Oct 2022 – Present | CGPA: 7.78
 **Minor**: Artificial Intelligence and Machine Learning (Since June 2023)  
 🎓 *Expected Graduation: 2026*
 
