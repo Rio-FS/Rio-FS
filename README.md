@@ -19,6 +19,23 @@
 
 ---
 
+### 🎓 Education
+
+- 🏫 **Amrita Vishwa Vidyapeetham**, Coimbatore  
+  📅 *2022 – 2026*  
+  📘 **B.Tech in Electronics and Communication Engineering**  
+  🎯 Minor in **Artificial Intelligence and Machine Learning**
+
+- 🏫 **Shishu Niketan Model Sr. Sec. School**, Chandigarh  
+  📅 *2020 – 2022*  
+  📗 **CBSE Senior Secondary (12th)**
+
+- 🏫 **Ryan International School**, Mumbai  
+  📅 *Until 2020*  
+  📕 **ICSE Secondary Education (10th)**
+
+---
+
 ### 🔧 Languages and Tools
 
 <p>
