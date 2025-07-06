@@ -1,81 +1,59 @@
-# 👨‍🎓 Mayank Sahu
+# 👋 Hi, I'm Mayank Sahu
 
-**Electronics and Communication Engineering Undergrad**  
-Coimbatore, TN, India  
-📧 mayanknsahu@gmail.com 
-
----
-
-## 🎯 Objective
-
-Motivated undergraduate student aiming to apply and enhance theoretical and practical knowledge while contributing to a dynamic organization. Strong communicator with excellent interpersonal skills, eager to gain hands-on experience, develop professionally, and bring a strong work ethic to any team.
+🎓 Final Year B.Tech. Student in **Electronics and Communication Engineering**  
+📍 Amrita Vishwa Vidyapeetham, Coimbatore  
+🧠 Minor in **Artificial Intelligence & Machine Learning**
 
 ---
 
-## 🛠️ Key Skills
+## 🛠️ Skills
 
-- **Languages**: C, C++, Python, Verilog, VHDL, MATLAB  
-- **Tools & Software**: LTSpice, VS Code, ModelSim, Vivado, Ansys, Spyder, Jupyter Notebook  
-- **Core Competencies**:
-  - Problem Solving and Algorithmic Thinking
-  - Circuit Theory, Digital Electronics
-  - Signals and Systems, Digital Signal Processing
-  - Communication and Control Theory
-  - Microcontrollers and Interfacing
-  - Electronic System Level Design
+**Languages:**  
+C, C++, Python, Verilog, VHDL
 
----
+**Tools & Platforms:**  
+LTSpice, VS Code, ModelSim, Vivado, Ansys, Spyder, Jupyter Notebook, Arduino IDE, Thonny IDE
 
-## 🎓 Education
-
-**B.Tech in Electronics and Communication Engineering**  
-*Amrita Vishwa Vidyapeetham, Coimbatore*  
-📆 Oct 2022 – Present | CGPA: 7.78
-**Minor**: Artificial Intelligence and Machine Learning (Since June 2023)  
-🎓 *Expected Graduation: 2026*
-
-**Senior Secondary (12th – CBSE)**  
-*Shishu Niketan Model Sr. Sec. School, Chandigarh* | 🗓️ July 2022
-
-**Secondary (10th – ICSE)**  
-*Ryan International School, Chembur, Mumbai* | 🗓️ July 2020
+**Core Domains:**  
+- Embedded Systems & Microcontroller Interfacing  
+- Digital & Analog Electronics  
+- Circuit Design & Simulation  
+- Electronic System-Level Design  
 
 ---
 
-## 💡 Interests
+## 💼 Internship
 
-- AI and Machine Learning
-- Automation and IoT
-- Embedded Systems
-- Microcontrollers
-
----
-
-## 📂 Projects
-
-### 🔹 LED-Based Vending Machine
-- Implemented a vending interface with LED, 7-segment display, multiplexer, and switches
-- Emphasized user ID and password entry via basic digital components
-
-### 🔹 Noise Cancellation using Spectrographic Methods
-- Simulated signal enhancement using spectrogram analysis and spectral subtraction
-- Tools: **Jupyter Lab**, **Spyder**
-
-### 🔹 Light Automation System with Ambient Light Sensitivity
-- Designed an FPGA-based system for lighting automation with security features
-- Hardware: Basys 3, PmodSSD, PmodALS, PmodKYPD, RGB LED  
-- Software: **Vivado 2024.2**
-
-### 🔹 Obstacle Detection & Image Transmission System
-- IR sensor and ESP-32 CAM used to detect objects and transmit data via **Telegram Bot API**
-- Tools: **Arduino IDE**, **Telegram**
+**KFX Labs (Hybrid)** — *May–June 2025*  
+🔧 Developed a **Digital Acceleration & Voltage Meter** to modernize analog railway systems.  
+💡 Used **Raspberry Pi Pico 2**, **ST7735 display** over SPI, programmed with **MicroPython** in **Thonny IDE**.
 
 ---
 
-## 📜 Certifications
+## 📌 Projects
 
-- **Python for Data Science and Machine Learning Bootcamp** – *Jose Portilla* (Ongoing)
+- **LED-Based Vending Machine with Authentication**  
+  💡 Used LEDs, seven segment display, multiplexer, breadboard, and switches
+
+- **Noise Cancellation Using Spectrographic Methods**  
+  📊 Implemented using **Jupyter Lab** and **Spyder**
+
+- **Obstacle Detection and Image Transmission via Telegram**  
+  🔧 Devices: **ESP32-CAM**, IR sensors, **Arduino UNO**  
+  🛠 Software: **Arduino IDE**, **Telegram Bot API**
+
+- **Light Automation System with Security Feature**  
+  🌗 Reacts to ambient light using **PmodALS**  
+  🛠 Built on **Basys 3** FPGA using **Vivado 2024.2**
 
 ---
 
-> ✨ *Looking for opportunities to collaborate, contribute, and grow in the fields of electronics, embedded systems, and AI.*  
+## 🌐 Connect with Me
+
+- 📧 [mayanknsahu@gmail.com](mailto:mayanknsahu@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/mayank-sahu-8ba09a255)  
+- 💻 [GitHub](https://github.com/Rio-FS)
+
+---
+
+> “Driven by curiosity, fueled by circuits.”  
