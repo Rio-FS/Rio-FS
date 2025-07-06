@@ -70,7 +70,7 @@
 
 - 📸 **IR-Based Obstacle Detection with Image Transmission**  
   > **ESP32-CAM** + **IR Sensors**, integrates with **Telegram Bot API**.
-
+<!--
 ---
 
 ### 📊 GitHub Stats
@@ -80,7 +80,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rio-FS&theme=radical" alt="GitHub Streak" />
 </p>
-
+-->
 ---
 
 ### 📫 Connect With Me
