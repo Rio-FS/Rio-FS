@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayank Sahu</h1>
-<h3 align="center">Final Year B. Tech Undergrad</h3>
+
+<div align="center">
+<h3> 🙎 Mayank Sahu | 💻 Final Year - B. Tech Undergrad | 🛸 Coimbatore, India </h3>
+</div>
 
 <p align="center">
   <a href="https://github.com/Rio-FS"><img src="https://komarev.com/ghpvc/?username=Rio-FS&label=Profile%20views&color=0e75b6&style=flat" alt="Rio-FS" /></a>
