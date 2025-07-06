@@ -1,59 +1,43 @@
-# 👋 Hi, I'm Mayank Sahu
+<h1 align="center">Hi 👋, I'm Mayank Sahu</h1>
+<h3 align="center">Electronics & Communication Undergrad | Embedded Systems Enthusiast | AI/ML Minor</h3>
 
-🎓 Final Year B.Tech. Student in **Electronics and Communication Engineering**  
-📍 Amrita Vishwa Vidyapeetham, Coimbatore  
-🧠 Minor in **Artificial Intelligence & Machine Learning**
-
----
-
-## 🛠️ Skills
-
-**Languages:**  
-C, C++, Python, Verilog, VHDL
-
-**Tools & Platforms:**  
-LTSpice, VS Code, ModelSim, Vivado, Ansys, Spyder, Jupyter Notebook, Arduino IDE, Thonny IDE
-
-**Core Domains:**  
-- Embedded Systems & Microcontroller Interfacing  
-- Digital & Analog Electronics  
-- Circuit Design & Simulation  
-- Electronic System-Level Design  
+<p align="center">
+  <a href="https://github.com/Rio-FS"><img src="https://komarev.com/ghpvc/?username=Rio-FS&label=Profile%20views&color=0e75b6&style=flat" alt="Rio-FS" /></a>
+</p>
 
 ---
 
-## 💼 Internship
+### 👨‍💻 About Me
 
-**KFX Labs (Hybrid)** — *May–June 2025*  
-🔧 Developed a **Digital Acceleration & Voltage Meter** to modernize analog railway systems.  
-💡 Used **Raspberry Pi Pico 2**, **ST7735 display** over SPI, programmed with **MicroPython** in **Thonny IDE**.
-
----
-
-## 📌 Projects
-
-- **LED-Based Vending Machine with Authentication**  
-  💡 Used LEDs, seven segment display, multiplexer, breadboard, and switches
-
-- **Noise Cancellation Using Spectrographic Methods**  
-  📊 Implemented using **Jupyter Lab** and **Spyder**
-
-- **Obstacle Detection and Image Transmission via Telegram**  
-  🔧 Devices: **ESP32-CAM**, IR sensors, **Arduino UNO**  
-  🛠 Software: **Arduino IDE**, **Telegram Bot API**
-
-- **Light Automation System with Security Feature**  
-  🌗 Reacts to ambient light using **PmodALS**  
-  🛠 Built on **Basys 3** FPGA using **Vivado 2024.2**
+- 🎓 Final year **B.Tech in Electronics and Communication Engineering**  
+- 🎯 Minor in **Artificial Intelligence and Machine Learning**  
+- 💼 Recently interned at **[KFX Labs](http://www.kfxlabs.com/)**  
+- 🌱 Currently learning **FPGA Design**, **SystemVerilog**, and **Edge AI**  
+- 💡 Passionate about **Embedded Systems**, **Digital Design**, and **Automation**  
+- 📫 How to reach me: [mayanknsahu@gmail.com](mailto:mayanknsahu@gmail.com)  
+- 🌐 Portfolio: *coming soon!*
 
 ---
 
-## 🌐 Connect with Me
+### 🔧 Languages and Tools
 
-- 📧 [mayanknsahu@gmail.com](mailto:mayanknsahu@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/mayank-sahu-8ba09a255)  
-- 💻 [GitHub](https://github.com/Rio-FS)
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VHDL-00457C?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vivado-FFB500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LTSpice-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ModelSim-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
 ---
 
-> “Driven by curiosity, fueled by circuits.”  
+### 🚀 Projects Showcase
+
+- 🟢 **Digital Acceleration & Voltage Meter**  
+  > Internship proje
