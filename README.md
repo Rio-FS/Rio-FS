@@ -12,8 +12,6 @@
 - 🎓 Final year **B.Tech in Electronics and Communication Engineering**  
 - 🎯 Minor in **Artificial Intelligence and Machine Learning**  
 - 💼 Recently interned at **[KFX Labs](http://www.kfxlabs.com/)**  
-- 🌱 Currently learning **FPGA Design**, **SystemVerilog**, and **Edge AI**  
-- 💡 Passionate about **Embedded Systems** and **Artificial Intelligence**
 - 📫 How to reach me: [mayanknsahu@gmail.com](mailto:mayanknsahu@gmail.com)  
 
 ---
